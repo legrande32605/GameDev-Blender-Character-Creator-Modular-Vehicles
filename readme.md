@@ -12,5 +12,5 @@
 This was a follow through of the GameDev.tv course Blender Character Creator v2.0.  For the most part it was following through the sylabus to refresh skills outlined in this course.  Little inovation was used in this project and the final design is close to the reference image taken from the first course video.
 
 ## Results of Course Videos
-- Part 1: Name Of Part   
-[![Vehicles - Name Of Part](./Renders/Thumb%20-%20Name%20of%20Part.png)](./Renders/Name%20of%20Part.png)
+- Part 1: Building the Base   
+[![Vehicles - Building the Base](./Renders/Thumb%20-%20Building%20the%20Base.png)](./Renders/Building%20the%20Base.png)
