@@ -16,5 +16,15 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 [![Vehicles - Building the Base](./Renders/Thumb%20-%20Building%20the%20Base.png)](./Renders/Building%20the%20Base.png)
 - Part 2: Building the Vehicle Top   
 [![Vehicles - Building the Vehicle Top](./Renders/Thumb%20-%20Building%20the%20Vehicle%20Top.png)](./Renders/Building%20the%20Vehicle%20Top.png)
-- Part 2: Building the Wheels   
+- Part 3: Building the Wheels   
 [![Vehicles - Building the Wheels](./Renders/Thumb%20-%20Building%20the%20Wheels.png)](./Renders/Building%20the%20Wheels.png)
+- Part 4: Creating Car Bases 
+    - Three Wheels
+
+    [![Vehicles - Creating Car Bases - 3 Wheels](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Three.png)](./Renders/Creating%20Car%20Bases%20Three.png)
+    - Four Wheels
+
+    [![Vehicles - Creating Car Bases - 4 Wheels](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Four.png)](./Renders/Creating%20Car%20Bases%20Four.png)
+    - Outliner
+    
+    [![Vehicles - Creating Car Bases - Outliner](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Outliner.png)](./Renders/Creating%20Car%20Bases%20Outliner.png)
