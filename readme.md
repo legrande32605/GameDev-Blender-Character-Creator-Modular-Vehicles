@@ -16,3 +16,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 [![Vehicles - Building the Base](./Renders/Thumb%20-%20Building%20the%20Base.png)](./Renders/Building%20the%20Base.png)
 - Part 2: Building the Vehicle Top   
 [![Vehicles - Building the Vehicle Top](./Renders/Thumb%20-%20Building%20the%20Vehicle%20Top.png)](./Renders/Building%20the%20Vehicle%20Top.png)
+- Part 2: Building the Wheels   
+[![Vehicles - Building the Wheels](./Renders/Thumb%20-%20Building%20the%20Wheels.png)](./Renders/Building%20the%20Wheels.png)
