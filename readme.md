@@ -26,5 +26,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 
     [![Vehicles - Creating Car Bases - 4 Wheels](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Four.png)](./Renders/Creating%20Car%20Bases%20Four.png)
     - Outliner
-    
-    [![Vehicles - Creating Car Bases - Outliner](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Outliner.png)](./Renders/Creating%20Car%20Bases%20Outliner.png)
+
+    [![Vehicles - Creating Car Bases - Outliner](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Outliner.PNG)](./Renders/Creating%20Car%20Bases%20Outliner.PNG)
