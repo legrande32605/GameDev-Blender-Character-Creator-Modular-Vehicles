@@ -36,3 +36,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 [![Vehicles - Making the Tank Top](./Renders/Thumb%20-%20Making%20the%20Tank%20Top.png)](./Renders/Making%20the%20Tank%20Top.png)
 - Part 8: Build the Rocket Launcher   
 [![Vehicles - Build the Rocket Launcher](./Renders/Thumb%20-%20Build%20the%20Rocket%20Launcher.png)](./Renders/Build%20the%20Rocket%20Launcher.png)
+- Part 9: Build the Triple Cannon  
+[![Vehicles - Build the Triple Cannon](./Renders/Thumb%20-%20Build%20the%20Triple%20Cannon.png)](./Renders/Build%20the%20Triple%20Cannon.png)
