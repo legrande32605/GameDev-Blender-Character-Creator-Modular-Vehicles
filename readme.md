@@ -30,3 +30,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
        [![Vehicles - Creating Car Bases - Outliner](./Renders/Thumb%20-%20Creating%20Car%20Bases%20Outliner.PNG)](./Renders/Creating%20Car%20Bases%20Outliner.PNG)
 - Part 5: Tank Tracks   
 [![Vehicles - Tank Tracks](./Renders/Thumb%20-%20Tank%20Tracks.png)](./Renders/Tank%20Tracks.png)
+- Part 6: Creating the Tank Base   
+[![Vehicles - Creating the Tank Base](./Renders/Thumb%20-%20Creating%20the%20Tank%20Base.png)](./Renders/Creating%20the%20Tank%20Base.png.png)
