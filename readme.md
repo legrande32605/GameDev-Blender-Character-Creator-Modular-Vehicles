@@ -42,3 +42,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 [![Vehicles - Making the Laser Canon](./Renders/Thumb%20-%20Making%20the%20Laser%20Canon.png)](./Renders/Making%20the%20Laser%20Canon.png)
 - Part 11 Tripod Base  
 [![Vehicles - Tripod Base](./Renders/Thumb%20-%20Tripod%20Base.png)](./Renders/Tripod%20Base.png)
+- Part 12 Texturing the Vehicles  
+[![Vehicles - Texturing the Vehicles](./Renders/Thumb%20-%20Texturing%20the%20Vehicles.png)](./Renders/Texturing%20the%20Vehicles.png)
