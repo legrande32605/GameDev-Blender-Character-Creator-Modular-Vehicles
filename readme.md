@@ -40,3 +40,5 @@ This was a follow through of the GameDev.tv course Blender Character Creator v2.
 [![Vehicles - Build the Triple Cannon](./Renders/Thumb%20-%20Build%20the%20Triple%20Cannon.png)](./Renders/Build%20the%20Triple%20Cannon.png)
 - Part 10 Making the Laser Canon  
 [![Vehicles - Making the Laser Canon](./Renders/Thumb%20-%20Making%20the%20Laser%20Canon.png)](./Renders/Making%20the%20Laser%20Canon.png)
+- Part 11 Tripod Base  
+[![Vehicles - Tripod Base](./Renders/Thumb%20-%20Tripod%20Base.png)](./Renders/Tripod%20Base.png)
