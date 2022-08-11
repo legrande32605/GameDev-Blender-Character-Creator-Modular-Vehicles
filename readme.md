@@ -2,7 +2,7 @@
 ## Modular Vehicles
 
 ![Maintained by LeGrande32605](https://img.shields.io/static/v1?label=Maintained%20by&message=LeGrande32605&color=blue)
-![Status](https://img.shields.io/static/v1?label=Status&message=Work%20in%20Progress&color=yellow)
+![Status](https://img.shields.io/static/v1?label=Status&message=On%20Hold&color=inactive)
 ![Repo Size](https://img.shields.io/github/repo-size/legrande32605/GameDev-Blender-Character-Creator-Modular-Vehicles)
 
 ### Reference Image
